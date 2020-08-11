@@ -8,6 +8,9 @@
 /build
 /captures
 .externalNativeBuild
+.idea/
+gradle/
+
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/androidstudio,intellij,java,android,gradle
